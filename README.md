@@ -2,8 +2,7 @@
  - 💻   **I'm a BackEnd Develover**    
 
  - 🇰🇷  **I'm working in South Korea**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisuuuu&&show_icons=true&theme=Showing icons)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisuuuu&show_icons=true&theme=cobalt) 
 
 <!--
 **jisuuuu/jisuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
